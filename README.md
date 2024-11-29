@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ahmad Jafar Ali</h1>
 <h3 align="center">Programmer from Indonesia</h3>
 
-<p align="justify">My expertise in Web Development is HTML5, CSS, Bootstrap, JavaScript, While my Linux Server uses Ubuntu Server, GNS3 VM. And to run linux, I use Operating System VirtualBox. And now learn Restful API, ORM, OOP in Javascript, DOM, NodeJS, Express JS, ReactJS, HTTP Server, database design, SDLC, OAUTH, Redux, React Router & backend integration, Design Pattern, Authentication, Open API, Web Socket, SSR (Server Side Rendering) With NEXTJS, Media handling, ESLINT, Unit testing & TDD, and Deployment & CI/CD.</p>
+<p align="justify">I am an Informatics Engineering student with a deep interest in technology and innovation. I focus on various areas in informatics, especially web development. I am always eager to learn new things and apply my knowledge in real projects.</p>
+
+<p align="justify">In web programming, I have skills in programming languages ​​such as HTML, CSS, Bootstrap, and MySQL, Express, React, Node. Js (MERN Stack). In addition, I also have experience using Linux, namely Ubuntu Server, GNS3 VM. And to run Linux, I use the VirtualBox Operating System. Now I am studying artificial intelligence (AI), during the learning process, I have studied Natural Language Processing and Artificial Neural Network which I implemented in a chatbot application.</p>
+
+<p align="justify" >My goal is to find new challenges and opportunities to continue learning and developing my skills and become an expert in the field of full-stack web development and artificial intelligence, as well as contributing to creating web applications that have a positive impact on users.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
